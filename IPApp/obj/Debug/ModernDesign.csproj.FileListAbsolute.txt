@@ -1,0 +1,10 @@
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\ModernDesign.csproj.AssemblyReference.cache
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\ModernDesign.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\Theme\TextBoxTheme.baml
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\MainWindow.g.cs
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\App.g.cs
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\IPApp_MarkupCompile.cache
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\IPApp_MarkupCompile.lref
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\IPApp.exe
+C:\Users\Vladick\source\repos\IPApp\IPApp\obj\Debug\IPApp.pdb
